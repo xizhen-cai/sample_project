@@ -1,18 +1,3 @@
-# sample_project
+You can find the project webpage at 
 
-
-
-## Basic introduction 
-
-
-
-## Visualizations 
-
-
-
-
-### Methods
-
-
-
-## Conclusion
+(https://xizhen-cai.github.io/sample_project/)

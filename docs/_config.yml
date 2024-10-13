@@ -13,22 +13,24 @@ plugins:
   - jekyll-seo-tag  # Adds SEO optimization tags to your site
   - jekyll-sitemap  # Automatically generates a sitemap
 
-# Optional: Social links to appear in the footer (if supported by the theme)
-social:
-  github_username: xizhen-cai
 
 # Navigation links (optional, if your theme supports them)
 nav_links:
   - title: "Home"
     url: "/"
+    sort_order: 1
   - title: "Data Description"
     url: "/data"
+    sort_order: 2
   - title: "Methodology"
     url: "/methodology"
+    sort_order: 3
   - title: "Results"
     url: "/results"
+    sort_order: 4
   - title: "Conclusions"
-    url: "/conclusion"
+    URL: "/conclusion"
+    sort_order: 5
 
 
 # Markdown settings

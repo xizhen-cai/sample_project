@@ -1,7 +1,6 @@
 ---
 title: ABOUT PAGE
-layout: template
-filename: about.md
+layout: default
 --- 
 
 # Titanic Survival Analysis

@@ -1,6 +1,6 @@
 ---
 title: My Project Page
-layout: default
+layout: template
 --- 
 
 # Titanic Survival Analysis

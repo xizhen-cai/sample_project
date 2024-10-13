@@ -17,14 +17,14 @@ plugins:
 nav_links:
   - title: "Home"
     url: "/"
-  - title: "1. Data Description"
+  - title: "Data Description"
     url: "/data"
-  - title: "2. Methodology"
+  - title: "Methodology"
     url: "/methodology"
-  - title: "3. Results"
+  - title: "Results"
     url: "/results"
-  - title: "4. Conclusions"
-    URL: "/conclusion"
+  - title: "Conclusions"
+    URL: "/_conclusion"
 
 # Markdown settings
 markdown: kramdown  # Default for GitHub Pages

@@ -1,6 +1,6 @@
 ---
 layout: default   # This tells Jekyll to use the default layout (from the theme)
-title: "Data Description" # Title of the page
+title: "1. Data Description" # Title of the page
 ---
 
 # Data Description

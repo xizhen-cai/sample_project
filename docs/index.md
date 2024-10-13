@@ -1,3 +1,9 @@
+---
+title: ABOUT PAGE
+layout: template
+filename: about.md
+--- 
+
 # Titanic Survival Analysis
 
 ## Project Overview

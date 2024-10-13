@@ -1,17 +1,6 @@
-# Site settings
-title: "My Data Analysis Project"
-description: "A website showcasing my data analysis project."
-url: "https://xizhen-cai.github.io/sample_project/"  # Replace with your GitHub Pages URL
-author: Xizhen Cai  # Your name
-
-# Theme settings
-theme: jekyll-theme-cayman  # You can replace this with other supported GitHub Pages themes like jekyll-theme-cayman, slate, etc.
-
-# Optional plugins
+remote_theme: pages-themes/time-machine@v0.2.0
 plugins:
-  - jekyll-feed  # This plugin adds an RSS feed to your site
-  - jekyll-seo-tag  # Adds SEO optimization tags to your site
-  - jekyll-sitemap  # Automatically generates a sitemap
+- jekyll-remote-theme 
 
 # Optional: Social links to appear in the footer (if supported by the theme)
 social:

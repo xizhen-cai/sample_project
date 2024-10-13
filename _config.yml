@@ -1,4 +1,6 @@
-remote_theme: jekyll-theme-midnight
+title: "My Project"
+description: "Project website using minima theme"
+theme: jekyll-theme-midnight
 
 # Optional: Social links to appear in the footer (if supported by the theme)
 social:

@@ -5,7 +5,7 @@ url: "https://xizhen-cai.github.io/sample_project/"  # Replace with your GitHub 
 author: Xizhen Cai  # Your name
 
 # Theme settings
-theme: jekyll-theme-dinky  # You can replace this with other supported GitHub Pages themes like jekyll-theme-cayman, slate, etc.
+theme: minima # You can replace this with other supported GitHub Pages themes like jekyll-theme-cayman, slate, etc.
 
 # Optional plugins
 plugins:

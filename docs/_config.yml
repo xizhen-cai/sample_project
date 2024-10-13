@@ -8,14 +8,10 @@ author: Xizhen Cai  # Your name
 theme: minima # You can replace this with other supported GitHub Pages themes like jekyll-theme-cayman, slate, etc.
 
 header_pages:
-  - title: "Data Description"
-    url: "/data"
-  - title: "Methodology"
-    url: "/methodology"
-  - title: "Results"
-    url: "/results"
-  - title: "Conclusions"
-    URL: "/conclusion"
+  - data.md
+  - methodology.md
+  - results.md
+  - conclusion.md
   
 # Optional plugins
 plugins:

@@ -23,8 +23,8 @@ This project aims to analyze the factors that influenced passenger survival rate
 - [Data Description](data.md)
 - [Methodology](methodology.md)
 - [Results](results.md)
-- [Conclusion](conclusion.md)
-- [Code and Notebooks](https://github.com/username/titanic-analysis)
+- [Conclusion](conclusions.md)
+- [Code and Notebooks](https://xizhen-cai.github.io/sample_project/)
 
 ## Key Findings
 

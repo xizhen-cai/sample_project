@@ -1,8 +1,7 @@
 ---
-title: My Project Page
+title: Methodology
 layout: template
 --- 
-
 # Methodology
 
 ## 1. Data Preprocessing

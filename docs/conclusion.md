@@ -1,3 +1,8 @@
+---
+layout: default   # This tells Jekyll to use the default layout (from the theme)
+title: "Conclusion" # Title of the page
+---
+
 # Conclusion
 
 ## Summary of Findings

@@ -85,8 +85,6 @@ The decision tree identified the most important predictors of survival as:
 
 ### b. Decision Tree Visualization
 
-![Decision Tree](images/decision_tree.png)
-
 - The decision tree split passengers first by **Sex** (female/male), then by **Pclass**. Women in 1st and 2nd class had the highest survival rates.
 
 ### c. Model Performance
@@ -108,9 +106,7 @@ Random forest's feature importance analysis revealed the following:
 - **Fare**
   
 - **Visualization**:
-
-  ![Feature Importance](images/feature_importance.png)
-
+- 
   The bar plot shows that **Sex** was the most critical variable in predicting survival, followed by **Pclass** and **Age**.
 
 ### b. Model Performance

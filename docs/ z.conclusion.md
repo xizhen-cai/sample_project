@@ -1,6 +1,6 @@
 ---
 layout: default   # This tells Jekyll to use the default layout (from the theme)
-title: "Z Conclusion" # Title of the page
+title: "Conclusion" # Title of the page
 ---
 
 # Conclusion

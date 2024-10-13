@@ -6,7 +6,7 @@ url: "https://<your-username>.github.io/<repository-name>" # Your live site URL
 author: Xizhen Cai
 
 # Theme settings
-theme: minima # Choose a theme (e.g., minima, jekyll-theme-cayman, jekyll-theme-slate, etc.)
+theme: jekyll-theme-cayman # Choose a theme (e.g., minima, jekyll-theme-cayman, jekyll-theme-slate, etc.)
 plugins:
   - jekyll-feed # Optional: Provides an RSS feed
 

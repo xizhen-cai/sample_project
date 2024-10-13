@@ -1,7 +1,3 @@
----
-layout: /_layouts/_config
----
-
 # Titanic Survival Analysis
 
 ## Project Overview

@@ -15,7 +15,7 @@ header_pages:
   - title: "Results"
     url: "/results"
   - title: "Conclusions"
-    URL: "/z.conclusion"
+    URL: "/conclusion"
   
 # Optional plugins
 plugins:

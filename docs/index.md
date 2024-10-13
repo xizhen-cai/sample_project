@@ -1,7 +1,8 @@
 ---
-title: "Titanic Survival Analysis" # Title of the page
-layout: default   # This tells Jekyll to use the default layout (from the theme)
+title: "" # Title of the page
+layout: home  # This tells Jekyll to use the default layout (from the theme)
 ---
+# Titanic Survival Analysis
 
 ## Project Overview
 

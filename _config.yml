@@ -1,6 +1,1 @@
-author: Xizhen Cai
-title: "My Project Site"
-description: "A simple project website."
-theme: jekyll-theme-cayman # Choose a theme (e.g., minima, jekyll-theme-cayman, jekyll-theme-slate, etc.)
-plugins:
-  - jekyll-feed # Optional: Provides an RSS feed
+theme:  jekyll-theme-midnight

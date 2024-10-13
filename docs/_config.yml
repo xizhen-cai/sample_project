@@ -13,18 +13,7 @@ plugins:
   - jekyll-seo-tag  # Adds SEO optimization tags to your site
   - jekyll-sitemap  # Automatically generates a sitemap
 
-# Navigation links (optional, if your theme supports them)
-nav_links:
-  - title: "Home"
-    url: "/"
-  - title: "My Data Description"
-    url: "/data"
-  - title: "Methodology"
-    url: "/methodology"
-  - title: "Results"
-    url: "/results"
-  - title: "Conclusions"
-    URL: "/z.conclusion"
+
 
 # Markdown settings
 markdown: kramdown  # Default for GitHub Pages

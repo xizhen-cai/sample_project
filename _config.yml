@@ -2,7 +2,7 @@
 title: "My Data Analysis Project"
 description: "A website showcasing my project on data analysis and methodology."
 baseurl: "" # Leave this blank unless you are deploying the site in a subfolder (e.g., /project)
-url: "https://<your-username>.github.io/<repository-name>" # Your live site URL
+url: "https://xizhen-cai.github.io/sample_project/" # Your live site URL
 author: Xizhen Cai
 
 # Theme settings
@@ -15,11 +15,11 @@ nav_links:
   - title: "Home"
     url: "/index"
   - title: "Data Description"
-    url: "/data-description"
+    url: "/data"
   - title: "Methodology"
     url: "/methodology"
   - title: "Results"
-    url: "/docs/results"
+    url: "/results"
   - title: "Conclusions"
     url: "/conclusions"
 
@@ -29,5 +29,4 @@ highlighter: rouge # For syntax highlighting in code blocks
 
 # SEO and social (optional)
 social:
-  github_username: yourusername # Display a GitHub link in footer
-  twitter_username: yourtwitterhandle # Optional: If you want to add social links
+  github_username: xizhen-cai # Display a GitHub link in footer

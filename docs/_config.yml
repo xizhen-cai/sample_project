@@ -17,7 +17,7 @@ plugins:
 nav_links:
   - title: "Home"
     url: "/"
-  - title: "Data Description"
+  - title: "My Data Description"
     url: "/data"
   - title: "Methodology"
     url: "/methodology"

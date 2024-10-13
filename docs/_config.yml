@@ -24,7 +24,7 @@ nav_links:
   - title: "Results"
     url: "/results"
   - title: "Conclusions"
-    URL: "/_conclusion"
+    URL: "/z.conclusion"
 
 # Markdown settings
 markdown: kramdown  # Default for GitHub Pages

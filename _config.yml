@@ -1,12 +1,36 @@
+# Site settings
+title: "My Data Analysis Project"
+description: "A website showcasing my data analysis project."
+url: "https://xizhen-cai.github.io/sample_project/"  # Replace with your GitHub Pages URL
+author: Xizhen Cai  # Your name
+
+# Theme settings
+theme: jekyll-theme-cayman  # You can replace this with other supported GitHub Pages themes like jekyll-theme-cayman, slate, etc.
+
+# Optional plugins
 plugins:
-  - jekyll-relative-links
-relative_links:
-  enabled: true
-  collections: true
-include:
-  - index.md
-  - README.md
-  - data.md
-  - methodology.md
-  - results.md
-  - conclusion.md
+  - jekyll-feed  # This plugin adds an RSS feed to your site
+  - jekyll-seo-tag  # Adds SEO optimization tags to your site
+  - jekyll-sitemap  # Automatically generates a sitemap
+
+# Optional: Social links to appear in the footer (if supported by the theme)
+social:
+  github_username: yourusername
+  twitter_username: yourtwitterhandle  # Optional, only add if you want to display social links
+
+# Navigation links (optional, if your theme supports them)
+nav_links:
+  - title: "Home"
+    url: "/"
+  - title: "Data Description"
+    url: "/data"
+  - title: "Methodology"
+    url: "/methodology"
+  - title: "Results"
+    url: "/results"
+  - title: "Conclusions"
+    url: "/conclusions"
+
+# Markdown settings
+markdown: kramdown  # Default for GitHub Pages
+highlighter: rouge  # Syntax highlighting for code blocks

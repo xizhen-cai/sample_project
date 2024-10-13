@@ -7,6 +7,16 @@ author: Xizhen Cai  # Your name
 # Theme settings
 theme: minima # You can replace this with other supported GitHub Pages themes like jekyll-theme-cayman, slate, etc.
 
+header_pages:
+  - title: "Data Description"
+    url: "/data"
+  - title: "Methodology"
+    url: "/methodology"
+  - title: "Results"
+    url: "/results"
+  - title: "Conclusions"
+    URL: "/z.conclusion"
+  
 # Optional plugins
 plugins:
   - jekyll-feed  # This plugin adds an RSS feed to your site

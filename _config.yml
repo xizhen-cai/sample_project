@@ -1,5 +1,5 @@
 # Site settings
-title: "My Data Analysis Project"
+title: "My Sample Data Analysis Project"
 description: "A website showcasing my project on data analysis and methodology."
 baseurl: "" # Leave this blank unless you are deploying the site in a subfolder (e.g., /project)
 url: "https://xizhen-cai.github.io/sample_project/" # Your live site URL

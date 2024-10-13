@@ -20,7 +20,7 @@ In this section, we present the key results from the statistical analysis and mo
   
 - **Visualization**:
   
-  ![Survival by Gender](images/survival_by_gender.png)
+  ![Survival by Gender](images/Survival_by_gender.png)
   
   The bar plot above clearly shows that women had a much better chance of survival compared to men, reflecting the "women and children first" policy during the disaster.
 
@@ -37,7 +37,7 @@ In this section, we present the key results from the statistical analysis and mo
   
 - **Visualization**:
   
-  ![Survival by Class](images/survival_by_class.png)
+  ![Survival by Class](images/Survival_by_Class.png)
 
   The survival rate was highest for 1st class passengers, decreasing significantly for 3rd class passengers. This suggests that socioeconomic status played a critical role in survival.
 

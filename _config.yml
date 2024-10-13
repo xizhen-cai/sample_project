@@ -1,32 +1,6 @@
-# Site settings
-title: "My Sample Data Analysis Project"
-description: "A website showcasing my project on data analysis and methodology."
-baseurl: "" # Leave this blank unless you are deploying the site in a subfolder (e.g., /project)
-url: "https://xizhen-cai.github.io/sample_project/" # Your live site URL
 author: Xizhen Cai
-
-# Theme settings
+title: "My Project Site"
+description: "A simple project website."
 theme: jekyll-theme-cayman # Choose a theme (e.g., minima, jekyll-theme-cayman, jekyll-theme-slate, etc.)
 plugins:
   - jekyll-feed # Optional: Provides an RSS feed
-
-# Navigation links (optional)
-nav_links:
-  - title: "Home"
-    url: "/index"
-  - title: "Data Description"
-    url: "/data"
-  - title: "Methodology"
-    url: "/methodology"
-  - title: "Results"
-    url: "/results"
-  - title: "Conclusions"
-    url: "/conclusions"
-
-# Markdown settings
-markdown: kramdown # GitHub Pages uses Kramdown by default for Markdown processing
-highlighter: rouge # For syntax highlighting in code blocks
-
-# SEO and social (optional)
-social:
-  github_username: xizhen-cai # Display a GitHub link in footer

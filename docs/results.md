@@ -1,6 +1,6 @@
 ---
 title: Results
-layout: template
+layout: default
 --- 
 
 # Results

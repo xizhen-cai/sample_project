@@ -1,6 +1,6 @@
 ---
 title: Methodology
-layout: template
+layout: default
 --- 
 # Methodology
 

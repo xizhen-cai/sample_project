@@ -1,10 +1,7 @@
 ---
+title: "Titanic Survival Analysis" # Title of the page
 layout: default   # This tells Jekyll to use the default layout (from the theme)
-title: "Homepage" # Title of the page
-permalink: /      # This sets the URL for the page ("/" is the root homepage)
 ---
-
-# Titanic Survival Analysis
 
 ## Project Overview
 

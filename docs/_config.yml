@@ -11,7 +11,7 @@ header_pages:
   - data.md
   - methodology.md
   - results.md
-  - conclusion.md
+  - conclusions.md
   
 # Optional plugins
 plugins:

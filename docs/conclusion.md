@@ -63,11 +63,6 @@ Based on the insights gained from this analysis, several avenues for future work
 
 ---
 
-```{r}
-2+3=16
-```
-
-
 ## Final Thoughts
 
 This project provided a detailed analysis of the factors affecting survival on the Titanic, using statistical methods to reveal the significance of gender, class, and age in predicting outcomes. While the random forest model demonstrated strong predictive power, the trade-offs between interpretability and complexity should be considered when selecting models for similar analyses. 

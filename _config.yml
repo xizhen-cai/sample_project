@@ -13,15 +13,15 @@ plugins:
 # Navigation links (optional)
 nav_links:
   - title: "Home"
-    url: "/docs/index"
+    url: "/index"
   - title: "Data Description"
-    url: "/docs/data-description"
+    url: "/data-description"
   - title: "Methodology"
-    url: "/docs/methodology"
+    url: "/methodology"
   - title: "Results"
     url: "/docs/results"
   - title: "Conclusions"
-    url: "/docs/conclusions"
+    url: "/conclusions"
 
 # Markdown settings
 markdown: kramdown # GitHub Pages uses Kramdown by default for Markdown processing

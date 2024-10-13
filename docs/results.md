@@ -1,3 +1,8 @@
+---
+title: My Project Page
+layout: template
+--- 
+
 # Results
 
 In this section, we present the key results from the statistical analysis and modeling efforts to understand the factors influencing survival on the Titanic.

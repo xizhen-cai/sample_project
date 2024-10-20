@@ -19,9 +19,9 @@ In this section, we present the key results from the statistical analysis and mo
   - Men: 19%
   
 - **Visualization**:
-  
-  ![Survival by Gender](images/Survival_by_gender.png){width=50%}
-  
+
+ <img src="images/Survival_by_gender.png" alt="drawing" width="200"/>
+
   The bar plot above clearly shows that women had a much better chance of survival compared to men, reflecting the "women and children first" policy during the disaster.
 
 ---

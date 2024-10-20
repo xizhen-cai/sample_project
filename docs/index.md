@@ -52,7 +52,11 @@ Potential extensions of this analysis include:
 
 ## Author
 
-**Prof. Cai**  
-[LinkedIn](https://www.linkedin.com/in/profcai) | [GitHub](https://github.com/username)
+Put your name here
 
 ---
+
+## References 
+
+List your reference here
+

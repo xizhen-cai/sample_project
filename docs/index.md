@@ -52,11 +52,11 @@ Potential extensions of this analysis include:
 
 ## Author
 
-Put your name here
+List author name and any other related information about the author 
 
 ---
 
 ## References 
 
-List your reference here
+List your references here.
 

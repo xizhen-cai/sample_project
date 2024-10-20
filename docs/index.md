@@ -34,8 +34,8 @@ This project aims to analyze the factors that influenced passenger survival rate
 
 ## Visualizations
 
-![Survival Rate by Gender](images/Survival_by_gender.png)
-![Survival Rate by Class](images/Survival_by_class.png)
+<img src="images/Survival_by_gender.png" alt="drawing" width="600"/>
+<img src="images/Survival_by_class.png" alt="drawing" width="600"/>
 
 You can explore the detailed analysis in the sections above. If you're interested in the code or methodology, feel free to check out the [GitHub repository](https://github.com/username/titanic-analysis).
 

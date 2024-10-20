@@ -69,4 +69,4 @@ This project provided a detailed analysis of the factors affecting survival on t
 
 By exploring additional variables and employing advanced techniques, future analyses could further refine these findings and potentially uncover deeper patterns in the data.
 
-**Thank you for exploring this analysis! Feel free to check out the [GitHub repository](https://xizhen-cai.github.io/sample_project/) for code, data, and further details.**
+**Thank you for exploring this analysis! Feel free to check out the [GitHub repository](https://github.com/xizhen-cai/sample_project/tree/main) for code, data, and further details.**
